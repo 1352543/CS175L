@@ -5,3 +5,4 @@
 print('My name is Andrew Fisher')
 print('I live at 101 Western Avenue, Austin, Texas, 56789')
 print('My phone number is (123)456-7890')
+print('My major is Computer Science')
